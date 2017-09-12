@@ -1,4 +1,4 @@
-# twitter_bot
+# Yet another twitter bot
 Tweets last pm.
 
 This bot is written using Tweepy as the Twitter's API interface for Python.
