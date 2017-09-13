@@ -2,10 +2,10 @@
 *Tweets last pm.*
 
 This bot is written using [Tweepy](http://www.tweepy.org/) as the Twitter's API interface for Python.
-Right now it checks every 30 seconds and only takes the very last pm . It then checks if the same text has been already tweeted and, if not, tweets it.
+This bot reads pms (text only), checks if the same text has already been tweeted and, if not, tweets it.
+My initial idea was to block spammers but twitter kinda does that for you already so not adding that functionality.
 
-### TODO:
-1. Tweet every pm if not tweeted already.
-2. Block spammers.
+**Feel free to suggest features!**
 
-[My working bot](https://twitter.com/retard0_bot)(turned off when I'm afk)
+**Enjoy it!**
+[My working bot](https://twitter.com/retard0_bot) (gotta move it to a 24/7 env. Soon.)
