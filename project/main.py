@@ -29,7 +29,7 @@ def tweet_last_message():
         text_to_tweet = message.text
         api.update_status(status=text_to_tweet)
         with open('already_done.txt', 'a') as file:
-            file.write(text_to_tweet)
+            file.write('\n' + text_to_tweet)
 
 '''
     Fire!
