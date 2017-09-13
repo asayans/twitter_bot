@@ -8,4 +8,4 @@ My initial idea was to block spammers but twitter kinda does that for you alread
 **Feel free to suggest features!**
 
 **Enjoy it!**
-[My working bot](https://twitter.com/retard0_bot) (gotta move it to a 24/7 env. Soon.)
+[My working bot](https://twitter.com/retard0_bot)
